@@ -1,5 +1,5 @@
-<h1 align="center">## 👋 Hi, I'm Melese Getaw
-### Full Stack Developer | Laravel & Flutter Expert | Team Lead
+<h1 align="center">## 👋 Hi, I'm Melese Getaw </h1>
+<h3>Full Stack Developer | Laravel & Flutter Expert | Team Lead </h3>
 
 I'm a results-driven developer with 4+ years of experience building full-stack web and mobile applications.  
 Currently serving as MIS Manager at ATM Business Solutions, I've also worked with international teams (e.g. Atbiya.com – Norway), delivering robust ERP systems and scalable platforms.
@@ -14,8 +14,8 @@ Currently serving as MIS Manager at ATM Business Solutions, I've also worked wit
 📈 Always learning, always building. Let’s connect!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/melese999) | [CV](#) | [Email](mailto:getawmelese70@gmail.com)
-</h1>
-<h3 align="center">Full Stack Developer</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melese999&label=Profile%20views&color=0e75b6&style=flat" alt="melese999" /> </p>
 
