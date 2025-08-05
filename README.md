@@ -1,19 +1,19 @@
 <h1 align="center">## 👋 Hi, I'm Melese Getaw </h1>
-<h3>Full Stack Developer | Laravel & Flutter Expert | Team Lead </h3>
+<h3> Laravel & Flutter Expert | Team Lead </h3>
 
 I'm a results-driven developer with 4+ years of experience building full-stack web and mobile applications.  
-Currently serving as MIS Manager at ATM Business Solutions, I've also worked with international teams (e.g. Atbiya.com – Norway), delivering robust ERP systems and scalable platforms.
+Currently serving as MIS Manager at ATM Investment Solutions, I've also worked with international teams (e.g. Atbiya.com – Norway), delivering robust ERP systems and scalable platforms.
 
 🛠️ Key Skills:
-- Backend: Laravel, PHP, Python, Node.js
-- Frontend: Angular, React, JavaScript
+- Backend: Laravel, PHP, Python
+- Frontend: React, JavaScript,Angular
 - Mobile: Flutter, Firebase
 - Databases: PostgreSQL, MySQL, MongoDB
 - DevOps: VPS, CI/CD, GitHub Actions
 
-📈 Always learning, always building. Let’s connect!
+📈 Always learning, always building, Continuous improvement. Let’s connect!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/melese999) | [CV](#) | [Email](mailto:getawmelese70@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/melese999) | [CV](https://drive.google.com/file/d/10qajmJ7SP2vyaPQ5znr2jvOxewXxf8NV/view) | [Email](mailto:getawmelese70@gmail.com)
 
 
 
