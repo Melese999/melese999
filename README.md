@@ -1,4 +1,4 @@
-<h1 align="center">## 👋 Hi, I'm Melese Getaw </h1>
+<h1 align="center">👋 Hi, I'm Melese Getaw </h1>
 <h3> Laravel & Flutter Expert | Team Lead </h3>
 
 I'm a results-driven developer with 4+ years of experience building full-stack web and mobile applications.  
